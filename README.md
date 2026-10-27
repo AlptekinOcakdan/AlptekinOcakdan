@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b0a12,50:6b1024,100:a3123a&text=Alptekin%20Ocakdan&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Full-stack%20Developer%20%E2%80%A2%20AI%20for%20Vet%20%26%20Agri%20%E2%80%A2%20TEKNOFEST%20Finalist&descAlignY=60&descSize=18&animation=fadeIn" alt="Alptekin Ocakdan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b0a12,50:6b1024,100:a3123a&text=Alptekin%20Ocakdan&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=Full-stack%20Developer%20%7C%20TEKNOFEST%20Finalist&descAlignY=58&descSize=18" alt="Alptekin Ocakdan" />
 </p>
 
 <p align="center">
@@ -177,17 +177,10 @@ A ground-up Next.js rebuild of an intercity bus company's site, **ticket purchas
 
 ---
 
-### 📈 GitHub, by the numbers
+### 📈 What I write the most
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlptekinOcakdan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d12&title_color=e0446b&icon_color=e0446b&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlptekinOcakdan&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d12&title_color=e0446b&text_color=c9d1d9" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlptekinOcakdan&hide_border=true&background=0d0d12&ring=e0446b&fire=e0446b&currStreakLabel=e0446b&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
-</p>
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/a3123a/AlptekinOcakdan" alt="Contribution chart" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlptekinOcakdan&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d12&title_color=e0446b&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 ---
